@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there I am Komal Dixit👋
 
-<!--
-**komal-dixit/komal-dixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My Profile!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Embarking on my Data Analyst Journey
+
+
+
+## About Me
+ I enjoy turning data into insightful stories and am always eager to learn more!
+🌱 I’m currently learning SQL, Power BI, and Excel
+📫 How to reach me: 20komald@gmail.com</li>
+Connect with me on linkedin:
+
+
+

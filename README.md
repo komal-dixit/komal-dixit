@@ -16,6 +16,8 @@ I enjoy turning data into insightful stories and am always eager to learn more!
 
  Explore my journey through a series of projects that showcase my dedication to mastering this field and my ongoing commitment to continuous learning.
 
+ Connect wiith me on [Linkedin](https://www.linkedin.com/in/--komaldixit)
+
 
 
 

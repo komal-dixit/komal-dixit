@@ -1,9 +1,9 @@
-## Hi there I am Komal Dixit👋
+# Hi there I am Komal Dixit👋
 
-# Welcome to My Profile!
+## Welcome to My Profile!
 
 
-
+https://raw.githubusercontent.com/komal-dixit/komal-dixit/refs/heads/main/DA.gif
 
 
 ## Embarking on my Data Analyst Journey
